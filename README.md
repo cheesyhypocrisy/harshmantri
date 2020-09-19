@@ -1,5 +1,4 @@
-### Hello World 👋
-
+![Hello World](https://media.giphy.com/media/gf675azxNAz2zDQ1vD/giphy.gif)
 <!--
 **HarshMantri/harshmantri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
