@@ -1,6 +1,6 @@
   ## Hello, World! <img src="wave.gif" width="25px" />
 I am Harsh Mantri, a Software Developer/Devops Engineer from India. 
-I am currently working full time at <a href="https://www.media.net"> Media.Net </a> as a SRE. I can be found at [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+I am currently working full time at <a href="https://www.media.net"> Media.Net </a> as a SRE. I can be found at [![Twitter][1.2]][1]  or on [![LinkedIn][3.2]][3].
 
 ## &#128102; About me
 🔭 I’m currently working on my <a href="https://harshmantri.github.io"> webpage </a> <br>
@@ -18,7 +18,7 @@ I am currently working full time at <a href="https://www.media.net"> Media.Net <
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon)
 
 [1]: https://twitter.com/CheesyHypocrisy
 [2]: https://github.com/HarshMantri
