@@ -7,7 +7,7 @@ I am currently working full time at <a href="https://www.media.net"> Media.Net <
 🌱 I’m currently learning **React**, **Java** <br>
 ✍ Other than writing code, I write poems and short stories <br>
 ⭐	My weapon of choice: *Python* <br>
-📫 You can reach me at harshmantri98@gmail.com or find me chilling out at <a href="https://dev.to/harshmantri"> DEV.to </a>, <a href="https://www.reddit.com/user/wizard_sphinx/"> Reddit </a> <br>
+📫 You can reach me at 24585585+HarshMantri@users.noreply.github.com or find me chilling out at <a href="https://dev.to/harshmantri"> DEV.to </a>, <a href="https://www.reddit.com/user/wizard_sphinx/"> Reddit </a> <br>
 
 
 
